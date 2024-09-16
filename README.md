@@ -1,3 +1,5 @@
+NB. Il programma di addestramento è stato danneggiato, usatelo non considerandolo completo al fine della formazione finale.
+
 # MEG_Support
 Benvenuto nel programma di addestramento per il supporto.
 Consigliamo vivamente di terminare con successo l'addestramento prima di operare sul campo.
